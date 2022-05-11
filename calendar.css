@@ -1,4 +1,8 @@
 /*******************************Calendar Top Navigation*********************************/
+body{
+    background-image: url(https://picsum.photos/1920/1080);
+    background-repeat: no-repeat;
+}
 div#calendar {
     margin: 0px auto;
     padding: 0px;
